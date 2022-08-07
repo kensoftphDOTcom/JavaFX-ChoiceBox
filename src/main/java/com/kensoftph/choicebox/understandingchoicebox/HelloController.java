@@ -1,13 +1,10 @@
 package com.kensoftph.choicebox.understandingchoicebox;
 
-import javafx.collections.FXCollections;
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.ChoiceBox;
 import javafx.scene.control.Label;
-import javafx.scene.layout.StackPane;
 import javafx.util.StringConverter;
 
 import java.net.URL;
